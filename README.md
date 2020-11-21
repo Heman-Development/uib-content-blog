@@ -23,3 +23,5 @@ Notes:
 ![homepage](homepage.png)
 ## Single post page 
 ![post](post.png)
+## Content-Blog
+![Content Blog](Content Blog.png)
