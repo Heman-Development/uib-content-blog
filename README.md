@@ -21,7 +21,7 @@ Notes:
 
 ## Homepage
 ![homepage](homepage.png)
-## Single post page 
+## Single post page
 ![post](post.png)
 ## Content-Blog
-![Content Blog](Content Blog.png)
+![Content Blog](Content.png)
